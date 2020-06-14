@@ -1,4 +1,4 @@
-# [PAPER TITLE](https://papers.nips.cc/paper/9467-generative-well-intentioned-networks.pdf)
+# [Generative Well-intentioned Networks](https://papers.nips.cc/paper/9467-generative-well-intentioned-networks.pdf)
 
 Justin Cosentino, Jun Zhu
 
